@@ -7,19 +7,19 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Tamilselvan N
-    tagline: EXPERTISE IN SOFTWARE DEVELOPMENT & PROJECT ARCHITECTURE
+    name: Biagio Brattoli
+    tagline: Computer Vision and Machine Learning researcher
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: tamilselvanvjm@gmail.com
+    email: biagio.brattoli@gmail.com
     phone: 
-    website: tamilvjm.github.io/publications/ #do not add http://
-    linkedin: tamilselvanvjm
-    github: tamilvjm
+    website: bbrattoli.github.io/publications/ #do not add http://
+    linkedin: biagiobrattoli
+    github: bbrattoli
     gitlab:
     bitbucket:
-    twitter: '@tamilselvanvjm'
+    twitter: '@BiagioBrattoli'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -28,102 +28,302 @@ sidebar:
       - idiom: English
         level: Fluent
 
-      - idiom: Tamil
+      - idiom: Italian
         level: Native
 
+      - idiom: German
+        level: Colloquial
+
     interests:
-      - item: Cricket
+      - item: Guitar
         link:
 
-      - item: Chess
+      - item: Basketball
         link:
 
       - item: Biking
         link:
 
 career-profile:
-    title: SYNOPSIS
+    title: Career Profile
     summary: |
-      A qualified and a result focussed professional with nearly 8 years of demonstrated history of leading development, testing and deployment of complex solutions; dual hatted as a Full Stack Developer and Technical lead for several projects
+      Currently full-time Applied Scientist at AWS. After a double master degree at KTH (Stochkolm, Sweden) and Politecnico di Torino (Torino, Italy), 
+      I pursued my passion for Computer Vision as researcher in the Heidelberg Collaboratory for Image processing under the supervision of Bjoern Ommer.
+      Lately I successfully completed an internship at AWS in Pasadena under the supervision of Pietro Perona.
+
+news:
+    title: News
+    intro: |
+        
+    
+    posts:
+        - time: December 2020
+          title: Defending my PhD Thesis. Magna cum Laude
+
+        - time: October 2020
+          title: Starting a new position as Applied Scientist with AWS
+
+        - time: June 2020
+          title: Outstanding Reviewer at CVPR 2020
+
+        - time: June 2020
+          title: Article on Amazon Science https://www.amazon.science/blog/video-classifiers-learn-to-recognize-actions-they've-never-seen
+        
+        - time: February 2020
+          title: The work done during my internship was accepted as publication at CVPR 2020
+          
+        - time: July 2019
+          title: Begin Amazon AWS intership with P.Perona in Pasadena, CA
+          
+        - time: July 2019
+          title: One paper accepted at ICCV19
+          
+        - time: January 2019
+          title: Selected as reviewer for ICCV19
+        
+        - time: December 2018
+          title: Selected as reviewer for CVPR19
+        
+        - time: Sptember 2018
+          title: Two papers accepted as orals at GCPR (German Conference for Patter Recognition) as a result of two master thesis which I supervised
+        
+        - time: July 2018
+          title: Attending the International Summer School for Computer Vision (ICVSS) in Sicily, Italy
+        
+        - time: 2018
+          title: Paper accepted as poster at ECCV18 in Munich, Germany
+        
+        - time: 2017
+          title: Attending the Workshop on Behavior Analysis (BAFA, Better Analysis Fewer Animals) in Utrecht, Netherlands
+        
+        - time: 2017
+          title: Paper accepted as poster at CVPR17 in Honolulu, Hawaii
+
+education:
+    - degree: Applied Scientists full-time at AWS
+      university: Germany
+      time: 2020 Oct - current
+      details: |
+      
+    - degree: Applied Scientists Intern at AWS
+      university: P. Perona, Pasadena, CA, USA
+      time: 2019 July - Dec
+      details: |
+     
+    - degree: PhD in Computer vision and Machine learning
+      university: Heidelberg University
+      time: 2015 - 2020
+      details: |
+
+    - degree: Internship (Master Thesis)
+      university: Tobii
+      time: 2014 - 2015
+      details: |
+
+    - degree: Master Degree
+      university: KTH (Stockholm, Sweden)
+      time: 2013 - 2015
+      details: |
+    
+    - degree: Master Degree
+      university: Politecnico di Torino (Torino, Italy)
+      time: 2012 - 2015
+      details: |
+    
+    - degree: Bachelor Degree
+      university: Politecnico di Torino (Torino, Italy)
+      time: 2009 - 2012
+      details: |
+
 
 educationcomplete:
-    - degree: Master Degree
-      university: Bits Pilani
-      time: 2020 - 2022
+    - degree: Applied Scientist full-time at AWS
+      university: Germany
+      time: 2020 Oct - current
       details: |
-        Master degree in Computer Science and Engineering
+      
+    - degree: Applied Scientists Intern at AWS
+      university: P. Perona, Pasadena, CA, USA
+      time: 2019 July - Dec
+      details: |
+
+    - degree: PhD in Computer vision and Machine learning
+      university: Heidelberg University
+      time: 2015 - 2020
+      details: |
+        Unsupervised deep learning for automatic behavior analysis
+
+          - Unsupervised learning
+          - Representaion learning
+          - Automatic Behavior Analysis
+
+    - degree: Internship (Master Thesis)
+      university: Tobii
+      time: 2014 - 2015
+      details: |
+        Master thesis topic Hand gesture classification by Deep learning using infrared camera 
+
+          - Deep learning
+          - Hand Gesture
+
+    - degree: Master Degree
+      university: KTH (Stockholm, Sweden)
+      time: 2013 - 2015
+      details: |
+        Master degree in Computer Science and Artificial Intelligence
 
           - Artificial Intelligence
           - Machine Learning
           - Computer Vision
     
+    - degree: Master Degree
+      university: Politecnico di Torino (Torino, Italy)
+      time: 2012 - 2015
+      details: |
+        Master degree in Software Engineering
+    
     - degree: Bachelor Degree
-      university: Nandha Engineering College (Erode)
-      time: 2008 - 2012
+      university: Politecnico di Torino (Torino, Italy)
+      time: 2009 - 2012
       details: |
-        Computer Science and Engineering
+        Master degree in Computer Engineering
 
 
-experiences:
-    - role: Senior Technical Lead
-      time: 2017 - Present
-      company: MSys technologies, Chennai
-      details: |
-        Responsible for mapping requirements and providing customized software solutions involving finalization of product specifications and selection of appropriate techniques.
-        Working from initial product concept to prototyping, software programming and coding; member of the Team that used peer review and peer-to-peer testing as part of the design and coding
+#experiences:
+    #- role: Lead Developer
+      #time: 2015 - Present
+      #company: Startup Hubs, San Francisco
+      #details: |
+        #Describe your role here lorem ipsum dolor sit amet, consectetuer
+        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        #Cum sociis natoque penatibus et magnis dis parturient montes,
+        #nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        #pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        #enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        #error sit voluptatem accusantium doloremque laudantium, totam rem
+        #aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        #architecto beatae vitae dicta sunt explicabo.
 
-          - Python
-          - Django
-          - Angular
+          #- Bullet point
+          #- Bullet point
 
-    - role: Technical Lead
-      time: 2013 - 2017
-      company: SmarTek21, Chennai
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+    #- role: Senior Software Engineer
+      #time: 2014 - 2015
+      #company: Google, London
+      #details: |
+        #Describe your role here lorem ipsum dolor sit amet, consectetuer
+        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        #Cum sociis natoque penatibus et magnis dis parturient montes,
+        #nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        #pellentesque eu, pretium quis, sem.
 
-          - Node.js
-          - Angular
+          #- Bullet point
+          #- Bullet point
 
-projects:
-    title: Projects
-    intro: >
-      Tintri, Inc. is an American information technology company based in Mountain View, California. Tintri provides products designed for Enterprise Cloud, virtual machines, and containers. Support portal (Python, Django) - All the customer facing issues/cases goes to support portal environment. Added/enhanced new features and fixed issues in the application
+    #- role: UI Developer
+      #time: 2012 - 2014
+      #company: Amazon, London
+      #details: |
+        #Describe your role here lorem ipsum dolor sit amet, consectetuer
+        #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        #Cum sociis natoque penatibus et magnis dis parturient montes,
+        #nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        #pellentesque eu, pretium quis, sem.
 
-    assignments:
-      - title: OneApp
-        link: "#hook"
-        tagline: "A responsive website template designed to help client promote, market and sell their products."
+          #- Bullet point
+          #- Bullet point
 
-      - title: Quality Portal
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers track their services."
+#projects:
+    #title: Projects
+    #intro: >
+      #You can list your side projects or open source libraries in this
+      #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
+    #assignments:
+      #- title: Velocity
+        #link: "#hook"
+        #tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      #- title: DevStudio
+        #link: "#"
+        #tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      #- title: Tempo
+        #link: "#"
+        #tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      #- title: Atom
+        #link: "#"
+        #tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      #- title: Delta
+        #link: "#"
+        #tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+publications:
+    title: Publications
+    intro: |
+      
+
+    papers:
+      - title: "Sharing Matters for Generalization in Deep Metric Learning"
+        authors: T. Milbich*, K. Roth*, B. Brattoli, B. Ommer
+        conference: tPAMI, 2020
+        
+      - title: "Rethinking Zero-shot Video Classification: End-to-end Training for Realistic Applications"
+        authors: B. Brattoli, J. Tighe, F. Zhdanov, P. Perona, K. Chalupka
+        conference: CVPR, 2020
+        
+      - title: "MIC: Mining Interclass Characteristics for Improved Metric Learning"
+        authors: B. Brattoli*, K. Roth*, B. Ommer
+        conference: ICCV, 2019
+
+      - title: "Improving Spatiotemporal Self-Supervision by Deep Reinforcement Learning"
+        authors: B. Brattoli*, U. Buechler*, B. Ommer
+        conference: ECCV, 2018
+
+      - title: "LSTM Self-Supervision for Detailed Behavior Analysis"
+        authors: B. Brattoli*, U. Buechler*, A. Wahl, M. Schwab, B. Ommer
+        conference: CVPR, 2017
+
+      - title: "Cross and Learn: Cross-Modal Self-Supervision"
+        authors: N. Sayer, B. Brattoli, B. Ommer
+        conference: oral at GCPR, 2018
+
+      - title: "X-GAN: Improving Generative Adversarial Networks with ConveX Combinations"
+        authors: O. Blum, B. Brattoli, B. Ommer
+        conference: oral at GCPR, 2018
+
+      - title: "Optogenetically stimulating intact rat corticospinal tract post-stroke restores motor control through regionalized functional circuit formation"
+        authors: A. S. Wahl*, U. Büchler*, A. Brändli, B. Brattoli, S. Musall, H. Kasper, B. V. Ineichen, F. Helmchen, B. Ommer & M. E. Schwab
+        conference: "Nature Communications, 2017"
+        
+      - title: "Early reduced behavioral activity induced by large strokes affects the efficiency of enriched environment in rats"
+        authors: A. S. Wahl, Erlebach, E, B. Brattoli, U. Büchler, J. Kaiser, V.B. Ineichen, A.C. Mosberger, S. Schneeberger, S. Imobersteg, M. Wieckhorst, M. Stirn, A. Schroeter, B. Ommer, M.E. Schwab
+        conference: "Journal of Cerebral Blood Flow & Metabolism, 2018"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: Python
+        level: 100%
+
+      - name: PyTorch
         level: 90%
 
-      - name: Node.js
-        level: 90%
+      - name: Tensorflow
+        level: 60%
 
-      - name: Angualr
-        level: 90%
-
-      - name: Django
+      - name: Caffe
         level: 80%
 
-      - name: Docker
+      - name: Matlab
         level: 90%
 
-      - name: AWS
-        level: 65%
+      - name: C/C++
+        level: 75%
 
 footer: >
-   <i class="fas fa-heart"></i> by <a href="" target="_blank" rel="nofollow">Tamilselvan</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
