@@ -1,0 +1,129 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Tamilselvan N
+    tagline: EXPERTISE IN SOFTWARE DEVELOPMENT & PROJECT ARCHITECTURE
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: tamilselvanvjm@gmail.com
+    phone: 
+    website: tamilvjm.github.io/publications/ #do not add http://
+    linkedin: tamilselvanvjm
+    github: tamilvjm
+    gitlab:
+    bitbucket:
+    twitter: '@tamilselvanvjm'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+    languages:
+      - idiom: English
+        level: Fluent
+
+      - idiom: Tamil
+        level: Native
+
+    interests:
+      - item: Cricket
+        link:
+
+      - item: Chess
+        link:
+
+      - item: Biking
+        link:
+
+career-profile:
+    title: SYNOPSIS
+    summary: |
+      A qualified and a result focussed professional with nearly 8 years of demonstrated history of leading development, testing and deployment of complex solutions; dual hatted as a Full Stack Developer and Technical lead for several projects
+
+educationcomplete:
+    - degree: Master Degree
+      university: Bits Pilani
+      time: 2020 - 2022
+      details: |
+        Master degree in Computer Science and Engineering
+
+          - Artificial Intelligence
+          - Machine Learning
+          - Computer Vision
+    
+    - degree: Bachelor Degree
+      university: Nandha Engineering College (Erode)
+      time: 2008 - 2012
+      details: |
+        Computer Science and Engineering
+
+
+experiences:
+    - role: Senior Technical Lead
+      time: 2017 - Present
+      company: MSys technologies, Chennai
+      details: |
+        Responsible for mapping requirements and providing customized software solutions involving finalization of product specifications and selection of appropriate techniques.
+        Working from initial product concept to prototyping, software programming and coding; member of the Team that used peer review and peer-to-peer testing as part of the design and coding
+
+          - Python
+          - Django
+          - Angular
+
+    - role: Technical Lead
+      time: 2013 - 2017
+      company: SmarTek21, Chennai
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+
+          - Node.js
+          - Angular
+
+projects:
+    title: Projects
+    intro: >
+      Tintri, Inc. is an American information technology company based in Mountain View, California. Tintri provides products designed for Enterprise Cloud, virtual machines, and containers. Support portal (Python, Django) - All the customer facing issues/cases goes to support portal environment. Added/enhanced new features and fixed issues in the application
+
+    assignments:
+      - title: OneApp
+        link: "#hook"
+        tagline: "A responsive website template designed to help client promote, market and sell their products."
+
+      - title: Quality Portal
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers track their services."
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python
+        level: 90%
+
+      - name: Node.js
+        level: 90%
+
+      - name: Angualr
+        level: 90%
+
+      - name: Django
+        level: 80%
+
+      - name: Docker
+        level: 90%
+
+      - name: AWS
+        level: 65%
+
+footer: >
+   <i class="fas fa-heart"></i> by <a href="" target="_blank" rel="nofollow">Tamilselvan</a>
